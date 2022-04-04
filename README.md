@@ -2,7 +2,7 @@
 
 - 🔭 Estou procurando emprego como dev frontend
 - 🌱 Estudando React
-- 😄 Pronouns:ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/gilcllys">
