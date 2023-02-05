@@ -1,7 +1,7 @@
 ### Olá Eu sou o Gilcllys 
 
-- 🔭 Estou procurando emprego como dev frontend
-- 🌱 Estudando React
+- 🔭 Atualmente estagiando como desenvolvedor web
+- 🌱 Estudando Docker
 - 😄 Pronomes: ele/dele
 
 <div align="center">
