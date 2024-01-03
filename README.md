@@ -1,6 +1,6 @@
 ### Olá Eu sou o Gilcllys 
 
-- 🔭 Atualmente estagiando como software devoloper na FPF TECH
+- 🔭 Atualmente software devoloper Fullstack na FPF TECH
 - 🌱 Estudando Machine learning
 - 😄 Pronomes: ele/dele
 
