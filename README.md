@@ -31,6 +31,7 @@
   <h1 align="center">Connect with me</h1>
  <a href="https://linkedin.com/in/www.linkedin.com/in/gilcllyscosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gilcllyscosta" height="30" width="40" /></a>
   <a href="https://instagram.com/dev_manauara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"   alt="dev_manauara" height="30" width="40" /></a>
+  <a href="https://medium.com/@gilcllyscosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="gilcllyscosta" height="30" width="40" /></a>
 </div> 
 
 <br>
