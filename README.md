@@ -1,5 +1,7 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Gilcllys</h1>
+<img align="center" src="https://komarev.com/ghpvc/?username=gilcllys&style=for-the-badge&color=green">
+
 <h3 align="center">Fullstack Developer At FPF TECH</h3>
 <br>
 <img align="center" src="https://c.tenor.com/BJxE_vQUoY0AAAAd/hey-there-turn-around.gif" width="250"> 
@@ -9,6 +11,7 @@
 - 📫 How to reach me **gilcllyscosta@gmail.com**
 - 🌱 I’m currently learning **Machine learning and Flutter**
 - 😄 pronouns: he/him
+
       
 <div align="center"> 
  <h1 align="center"> Languages and Frameworks</h1>
@@ -53,6 +56,4 @@
   <a href="https://github.com/gilcllys">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilcllys&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilcllys&layout=compact&langs_count=5&theme=merko"/>
- 
-</div>
- 
+</div> 
