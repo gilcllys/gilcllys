@@ -9,7 +9,7 @@
 
 
 - 📫 How to reach me **gilcllyscosta@gmail.com**
-- 🌱 I’m currently learning **Machine learning and Flutter**
+- 🌱 I’m currently learning **Terraform and AWS**
 - 😄 pronouns: he/him
 
       
