@@ -2,7 +2,7 @@
   <h1 align="center">Hi 👋, I'm Gilcllys</h1>
 <img align="center" src="https://komarev.com/ghpvc/?username=gilcllys&style=for-the-badge&color=green">
 
-<h3 align="center">Fullstack Developer At FPF TECH</h3>
+<h3 align="center">Fullstack Developer At John Deere</h3>
 <br>
 <img align="center" src="https://c.tenor.com/BJxE_vQUoY0AAAAd/hey-there-turn-around.gif" width="250"> 
 </div>
